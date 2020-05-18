@@ -6,7 +6,9 @@ Run console app with an IDE
 You have the following options to choose:
 (1)Create New Task (2)Add Task Dependency (3)Print Task List (4)Start Task (5)Exit
 
+
 Functions:
+
 (1)Create New Task - user has the ability to create a task
 
 (2)Add Task Dependency - user has the ability to add a dependency to certain task
